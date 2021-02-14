@@ -17,5 +17,6 @@ A Flutter plugin for sharing content from the Flutter app via the platform share
   s.dependency 'Flutter'
   
   s.ios.deployment_target = '12.0'
+  s.swift_version         = '4.2'
 end
 
