@@ -16,6 +16,6 @@ A Flutter plugin for sharing content from the Flutter app via the platform share
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 end
 
